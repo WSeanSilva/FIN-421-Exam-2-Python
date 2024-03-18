@@ -1,4 +1,4 @@
-This python code was created to greatly assist in the completion of the second FIN 421 exam. It is capable of the following: 
+The Financinator 3000 created to greatly assist in the completion of the second FIN 421 exam. It is capable of the following: 
 - Extracting FF3F and Yahoo Finance Data
 - Merging Datasets
 - Performing CAPM and Multi-Factor Regression w/ Respective Cost of Equity Calculations
