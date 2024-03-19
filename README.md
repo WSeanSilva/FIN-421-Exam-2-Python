@@ -1,6 +1,6 @@
-The Financinator 3000 created to greatly assist in the completion of the second FIN 421 exam. It is capable of the following: 
+The Financinator 3000 was created to greatly assist in the completion of the second FIN 421 exam. It is capable of the following: 
 - Extracting FF3F and Yahoo Finance Data
-- Merging Datasets
+- Merging The 2 Datasets
 - Performing CAPM and Multi-Factor Regression w/ Respective Cost of Equity Calculations
 - Calculating Total, Systematic, and Idiosyncratic stock risk
 - Calculating The Adjusted Beta
