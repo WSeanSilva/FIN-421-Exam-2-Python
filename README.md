@@ -1,4 +1,4 @@
-MihaiGate2024 was created to greatly assist in the completion of the second FIN 421 exam. It is capable of the following: 
+This project was created to greatly assist in the completion of the second FIN 421 exam. It is capable of the following: 
 - Extracting FF3F and Yahoo Finance Data
 - Merging The 2 Datasets
 - Performing CAPM and Multi-Factor Regression w/ Respective Cost of Equity Calculations
